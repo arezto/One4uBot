@@ -20,7 +20,8 @@ UNAPPROVED_MSG = (
     "`Halo,budayakan mengucapkan salam.`\n"
     "`Hargai waktu kami,Spam P tidak akan saya respon`\n"
     "`Anda sopan saya juga akan menghargai anda..`\n"
-    "`Jangan lupa subscribe channel youtube saya >kangpatch<.`\n\n"
+    "`Jangan lupa subscribe channel youtube saya`\n"
+    "`> m.youtube.com/channel/UCBq7We2kW4lJVlp0xHTV77A <`\n\n"
     "`*Ini adalah pesan otomatis,jangan anda spam terus`")
 # =================================================================
 
